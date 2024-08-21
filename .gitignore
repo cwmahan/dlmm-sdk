@@ -14,7 +14,7 @@ target/*
 !target/debug/cli
 deployment
 
-ts-client/dist
+// ts-client/dist
 ts-client/.env
 
 .pnpm-debug.log
